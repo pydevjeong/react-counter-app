@@ -1,0 +1,9 @@
+.profile {
+  margin: 5rem auto;
+  width: 30rem;
+  border-radius: 8px;
+  padding: 1rem;
+  color: rgb(177, 22, 156);
+  text-align: center;
+  background-color: #dcdf27;
+}
